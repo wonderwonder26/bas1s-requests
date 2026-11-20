@@ -1,6 +1,6 @@
 # BAS1S Ventures — Public Investment Requests
 
-BAS1S Ventures is ready to buy certain private-company shares and is publishing that request here, so the people who hold the shares can find it and write to us.
+[BAS1S Ventures](https://bas1s.ventures) is ready to buy certain private-company shares and is publishing that request here, so the people who hold the shares can find it and write to us.
 
 If the shares below are yours, you can contact us directly. Writing to us does not mean a price is agreed or a purchase is complete.
 
@@ -29,6 +29,7 @@ We are not inviting brokers, intermediaries, or introducers.
 
 Wonder Xu, Bas1s Ventures.
 
+- Website: [https://bas1s.ventures](https://bas1s.ventures)
 - Email: [wonder@bas1s.ventures](mailto:wonder@bas1s.ventures)
 - Discussion form: [https://bas1s.ventures/secondaries/openevidence](https://bas1s.ventures/secondaries/openevidence)
 
