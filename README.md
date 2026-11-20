@@ -10,7 +10,6 @@ If the shares below are yours, you can contact us directly. Writing to us does n
 - [Who should write](#who-should-write)
 - [Contact](#contact)
 - [What a purchase still depends on](#what-a-purchase-still-depends-on)
-- [中文摘要](#chinese-summary)
 
 ## OpenEvidence preferred shares
 
@@ -40,9 +39,3 @@ Please do not send share certificates, capitalization tables, or identification 
 This is our own buying interest. We are not affiliated with OpenEvidence, and OpenEvidence has not endorsed this request.
 
 No purchase has been agreed or completed. Any purchase still depends on diligence, an agreed price, the share transfer rules, any right of first refusal, company consent, and final documents. We are not saying that the company has approved a transfer.
-
-<a id="chinese-summary"></a>
-
-## 中文摘要
-
-BAS1S Ventures 希望购入约 1,000 万美元的 OpenEvidence 优先股，优先考虑直接二级转让，目标隐含公司估值约 120 亿美元。请由直接股东本人，或由实际持有股份的主体所授权的人员联系。经纪人、中介和介绍人不在邀请范围内。联系人 Wonder Xu：[wonder@bas1s.ventures](mailto:wonder@bas1s.ventures)。也可使用说明页上的沟通表单：[https://bas1s.ventures/secondaries/openevidence](https://bas1s.ventures/secondaries/openevidence)。该页标注的复核日期为 2026 年 11 月 19 日。这不是已经达成或已经完成的交易，也不表示公司已经同意转让。BAS1S Ventures 与 OpenEvidence 没有关联，也未获得其背书。
