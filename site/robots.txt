@@ -1,0 +1,9 @@
+# Project-site robots file for the BAS1S Ventures public requests site.
+# Host-level crawlers request /robots.txt from the github.io host root,
+# which this project repository does not control. This file applies when
+# it is fetched at the project path.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://wonderwonder26.github.io/bas1s-requests/sitemap.xml
